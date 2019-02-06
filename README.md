@@ -7,4 +7,5 @@
 $docker build -t docker-whale .
 
 #実行する
+
 docker run docker-whale
