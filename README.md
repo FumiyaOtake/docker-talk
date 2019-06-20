@@ -1,11 +1,11 @@
 # docker-talk
 
-#dockerに格言を喋らす
+## dockerに格言を喋らす
 
-#dockerfileからイメージをビルドする
+#### dockerfileからイメージをビルドする
 
 $docker build -t docker-whale .
 
-#実行する
+#### 実行する
 
 docker run docker-whale
